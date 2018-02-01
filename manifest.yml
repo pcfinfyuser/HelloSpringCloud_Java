@@ -1,2 +1,4 @@
-
----applications:- name: hello-spring-cloud-artifact123  instances: 1  host: hello-spring-cloud-${random-word}  path: target/hello-spring-cloud-0.0.1.BUILD-SNAPSHOT.jar
+name: hello-spring-cloud-artdemo  
+instances: 1  
+host: hello-spring-cloud-${random-word}
+path: target/hello-spring-cloud-0.0.1.BUILD-SNAPSHOT.jar
