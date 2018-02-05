@@ -1,4 +1,3 @@
-name: hello-spring-cloud-artdemo_pcf
 instances: 1  
 host: hello-spring-cloud-${random-word}
 path: target/hello-spring-cloud-0.0.1.BUILD-SNAPSHOT.jar
