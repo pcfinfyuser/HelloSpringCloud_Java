@@ -1,3 +1,0 @@
-name: HelloSpringCloud_Pivotal_test123
-instances: 1  
-path: target\hello-spring-cloud-0.0.1.BUILD-SNAPSHOT.jar
