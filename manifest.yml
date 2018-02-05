@@ -1,4 +1,4 @@
-name: HelloSpringCloud_Pivotal
+name: HelloSpringCloud_Pivotal_test
 instances: 1  
 host: hello-spring-cloud-${random-word}
 path: target/hello-spring-cloud-0.0.1.BUILD-SNAPSHOT.jar
